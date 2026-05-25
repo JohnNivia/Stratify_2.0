@@ -1,6 +1,6 @@
 
 <p align = "center "> <img src ="sinfondo.png" alt = "logo" width="200">
 </p>
-Stratify
+#Stratify
 Grupo de proyecto formativo
 
