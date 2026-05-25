@@ -1,5 +1,4 @@
 # Stratify_2.0
 Grupo de proyecto formativo
-<p>
-  <img src =""
+<p aling = "center "<img src ="sinfondo.png" alt = "logo" width="200">
 </p>
