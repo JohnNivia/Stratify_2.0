@@ -1,2 +1,2 @@
 # Stratify_2.0
-Holii
+Grupo de proyecto formativo
